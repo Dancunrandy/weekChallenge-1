@@ -17,4 +17,4 @@ if (marks>=80&&marks<=100){//returns Grade A
         console.log('Invalid marks')// if the marks are invalid retuns invalid marks
     }
 }
-studentGrade(38)
+studentGrade(40)
