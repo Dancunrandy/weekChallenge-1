@@ -1,15 +1,15 @@
 # Code Challenge Week-1
 ## Description
-It's about various scopes in javasript like functions , operators e.t.c.
-In this folder there are three javascript files with different solutions to different problems i.e
-      *student.js*
+It's about various scopes in javascript like functions , operators e.t.c.
+In this folder there are three javascript files with different solutions to different problems.
+###### 1-grade.js
 * This is a student grade generator that prompts the user to input the students marks and will return the grade according to the level of marks.
-       *speed.js*
+###### 2-detector.js
 * This is a speed detector program that takes the input of a vehicle's speed and outputs the following according to limits;
-* if the speed is less than 70,it prints "Ok"
-* for every 5km/s above 70,it gives the driver one demerit point e.g for 80km/s, it prints:"Points:2".
-* if a driver gets more than 12 points,it prints:"License suspended".
-       *salary.js*
+ if the speed is less than 70,it prints "Ok"
+ for every 5km/s above 70,it gives the driver one demerit point e.g for 80km/s, it prints:"Points:2".
+if a driver gets more than 12 points,it prints:"License suspended".
+###### salary.js
 * This is a net Salary calculator program whose major task is to calculate an individual's Net Salary by getting the inputs of basic salary and benefits.
 ### Prerequisites
 * node v14.17.4 and above
@@ -28,4 +28,4 @@ javascript solving problems.
 ##### License
 This project is licensed under the MIT License.
 ###### Documentation
-documentation is over at*Read the Docs*
+documentation is over at *Read the Docs*
