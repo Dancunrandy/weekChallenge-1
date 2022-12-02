@@ -9,7 +9,7 @@ In this folder there are three javascript files with different solutions to diff
  if the speed is less than 70,it prints "Ok"
  for every 5km/s above 70,it gives the driver one demerit point e.g for 80km/s, it prints:"Points:2".
 if a driver gets more than 12 points,it prints:"License suspended".
-###### salary.js
+###### 3-salary.js
 * This is a net Salary calculator program whose major task is to calculate an individual's Net Salary by getting the inputs of basic salary and benefits.
 ### Prerequisites
 * node v14.17.4 and above
